@@ -1,5 +1,7 @@
 #include<stdio.h>
 
-printf("Hello World!");
+function void hello_world{
+	printf("Hello World!");
+}
 
-；
+
